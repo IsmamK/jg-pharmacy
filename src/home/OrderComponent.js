@@ -15,7 +15,7 @@ const OrderComponent = () => {
                   <span className="text-indigo-600 font-medium text-sm">1</span>
                 </div>
                 <p className="text-gray-700 text-base">
-  আমাদের “A Grade Pharmacist” আপনাকে ফোন করে অর্ডার কনফার্ম করবেন।  
+  আমাদের A Grade Pharmacist আপনাকে ফোন করে অর্ডার কনফার্ম করবেন।  
                   </p>
               </div>
               
@@ -23,7 +23,7 @@ const OrderComponent = () => {
                 <div className="bg-pink-100 p-2 rounded-full flex-shrink-0 mt-0.5">
                   <span className="text-pink-600 font-medium text-sm">2</span>
                 </div>
-                <p className="text-gray-700 text-base">আমাদের 'A Grade Pharmacist' আপনাকে ফোন করে অর্ডার কনফার্ম করবেন।</p>
+                <p className="text-gray-700 text-base">আমাদের A Grade Pharmacist আপনাকে ফোন করে অর্ডার কনফার্ম করবেন।</p>
               </div>
               
               <div className="flex items-start gap-3">
