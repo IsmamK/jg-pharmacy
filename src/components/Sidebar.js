@@ -8,7 +8,7 @@ import {
   FaPills, FaFlask, FaHeartbeat, FaSmile, FaLeaf, FaHome,
   FaPrescriptionBottle, FaTablets, FaCapsules, FaBandAid,
   FaTint, FaVial, FaAllergies, FaDna, FaProcedures,
-  FaFirstAid, FaWheelchair, FaCream, FaShower, FaPalette,
+  FaFirstAid, FaWheelchair, FaShower, FaPalette,
   FaSprayCan, FaMugHot, FaOilCan, FaSpa, FaBroom, FaSoap, FaWind
 } from "react-icons/fa";
 
@@ -104,7 +104,7 @@ const categories = [
     subcategories: [
       { 
         name: "Skincare", 
-        icon: <FaCream />,
+        icon: <FaWheelchair />,
         subSubcategories: [
           { 
             name: "Moisturizers",

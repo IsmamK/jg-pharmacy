@@ -6,7 +6,7 @@ import React, { useState, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 import { 
   FaPills, FaPrescriptionBottle, FaTablets, FaFlask, FaTint, 
-  FaPalette, FaCream, FaShower, FaHeartbeat, FaProcedures, 
+  FaPalette, FaShower, FaHeartbeat, FaProcedures, 
   FaOilCan, FaFirstAid, FaBandAid, FaWheelchair, FaSmile, 
   FaWind, FaSpa, FaLeaf, FaHome, FaBroom, FaSoap, FaCapsules, 
   FaVial, FaAllergies, FaMugHot, FaDna, FaChevronRight, 
@@ -106,7 +106,7 @@ const categories = [
     subcategories: [
       { 
         name: "Skincare", 
-        icon: <FaCream />,
+        icon: <FaPalette />,
         subSubcategories: [
           { 
             name: "Moisturizers",

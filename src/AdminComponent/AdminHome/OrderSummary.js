@@ -50,8 +50,8 @@ const Dashboard = () => {
           <CardHeader>
             <h3>Total Earnings</h3>
             <SelectDropdown value={timeRange} onChange={(e) => setTimeRange(e.target.value)}>
-              <option value="today">Today's Earnings</option>
-              <option value="yesterday">Yesterday's Earnings</option>
+              <option value="today">Today{'s'} Earnings</option>
+              <option value="yesterday">Yesterday{'s'} Earnings</option>
               <option value="last5Days">Last 5 Days Earnings</option>
               <option value="lastMonth">Last Month Earnings</option>
               <option value="lastYear">Last Year Earnings</option>

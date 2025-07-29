@@ -14,8 +14,8 @@ const Footer = () => {
               Connect our specialist doctor at any time from anywhere
             </p>
             <p className="text-gray-400 text-sm">
-              Bangladesh's only LegitScript certified online healthcare platform
-            </p>
+            {"Bangladesh's only LegitScript certified online healthcare platform"}
+              </p>
           </div>
 
           {/* Quick Links */}
