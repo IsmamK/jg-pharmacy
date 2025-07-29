@@ -14,9 +14,9 @@ const OrderComponent = () => {
                 <div className="bg-indigo-100 p-2 rounded-full flex-shrink-0 mt-0.5">
                   <span className="text-indigo-600 font-medium text-sm">1</span>
                 </div>
-                <p className="text-gray-700 text-base">
+                {/* <p className="text-gray-700 text-base">
                     আমাদের {"'A Grade Pharmacist'"} আপনাকে ফোন করে অর্ডার কনফার্ম করবেন।
-                </p>
+                </p> */}
 
               </div>
               
